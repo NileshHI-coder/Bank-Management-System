@@ -38,6 +38,7 @@ To design and implement a secure and functional banking system capable of perfor
 
 # 📂 Project Structure
 
+```text
 Bank-Management-System/
 │
 ├── bank.cpp
